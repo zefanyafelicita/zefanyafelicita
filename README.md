@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/cat.gif" width="180" alt="cute cat" />
+  <img src="cat.gif" width="180" alt="cute cat" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=300&lines=About+Me" alt="About Me" />
