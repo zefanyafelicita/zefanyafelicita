@@ -38,8 +38,8 @@ I have experience with Laravel, React Native, TypeScript, MySQL, and Python, whi
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B388FF&width=300&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=F4B400&text_color=444444&bg_color=FFF8FA" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=FF69B4&text_color=444444&bg_color=FFF8FA" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zefanyafelicita&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=F4B400&text_color=444444&bg_color=FFF8FA" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyafelicita&layout=compact&hide_border=true&title_color=FF69B4&text_color=444444&bg_color=FFF8FA" />
 </p>
 
 ---
@@ -47,6 +47,6 @@ I have experience with Laravel, React Native, TypeScript, MySQL, and Python, whi
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4FC3F7&width=300&lines=Contact" alt="Contact" />
 
 <p>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/zefanyafelicita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zefanyafelicita28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
